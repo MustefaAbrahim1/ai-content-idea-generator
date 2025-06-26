@@ -1,7 +1,7 @@
 # 🌟 🎬 Hayyu AI Content Generator
-- Welcome to the AI Content Idea Generator — your personal AI-powered assistant to spark YouTube Shorts, TikTok videos, Instagram Reels, and blog content ideas in seconds.
+- Welcome to the AI Content Idea Generator your personal AI-powered assistant to spark YouTube Shorts, TikTok videos, Instagram Reels, and blog content ideas in seconds.
 
-## 🔗 👉 Click here to try it out (Live App)
+## 🔗 👉 Click here to try it out ([Live App]([https://hayyu-ai-content-idea-generator.streamlit.app/]))
 - ✨ What is this?
 - The AI Content Idea Generator is a simple, user-friendly tool that helps content creators instantly come up with high-quality, platform-specific content ideas powered by artificial intelligence.
 - Whether you're stuck in a creative block or just need a quick list of fresh ideas, this app gives you what you need — fast and easy.
@@ -9,7 +9,7 @@
 ## 🧠 What Can You Do With It?
 - 🎯 Generate content ideas based on your topic or niche
 
-- 🎥 Choose your target platform – TikTok, YouTube Shorts, Instagram Reels, or Blog
+- 🎥 Choose your target platform TikTok, YouTube Shorts, Instagram Reels, or Blog
 
 - 🔝 Get the top 5 content ideas most relevant to your input
 
@@ -18,7 +18,7 @@
 # ✅ How It Works
 ## Enter your niche
 - (e.g., fitness, tech, cooking)
-- Just type what you're thinking — e.g., “AI in Education” or “Fitness for Busy People”
+- Just type what you're thinking e.g., “AI in Education” or “Fitness for Busy People”
 
 ## Specify your target audience
 - (e.g., teens, moms, students)
@@ -48,11 +48,11 @@
 
 - Morning Habits That Will Instantly Boost Your Focus
 
-- Discipline vs Motivation – What Students Really Need
+- Discipline vs Motivation What Students Really Need
 
 - 90 Seconds of Study Discipline Tips You Wish You Knew Earlier
 
-- The Power of Saying 'No' – Student Edition
+- The Power of Saying 'No' Student Edition
 
 - What I Learned After 30 Days of No Distractions
 
