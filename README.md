@@ -1,7 +1,7 @@
 # 🌟 🎬 Hayyu AI Content Generator
 - Welcome to the AI Content Idea Generator your personal AI-powered assistant to spark YouTube Shorts, TikTok videos, Instagram Reels, and blog content ideas in seconds.
 
-## 🔗 👉 Click here to try it out ([Live App]([https://hayyu-ai-content-idea-generator.streamlit.app/]))
+## 🔗 👉 Click here to try it out [[Live App](https://hayyu-ai-content-idea-generator.streamlit.app/)]
 - ✨ What is this?
 - The AI Content Idea Generator is a simple, user-friendly tool that helps content creators instantly come up with high-quality, platform-specific content ideas powered by artificial intelligence.
 - Whether you're stuck in a creative block or just need a quick list of fresh ideas, this app gives you what you need — fast and easy.
@@ -56,7 +56,7 @@
 
 - What I Learned After 30 Days of No Distractions
 
-# 🌐 Try It Now
+# 🌐 Try It [Now](https://hayyu-ai-content-idea-generator.streamlit.app/)
 ## 👉 Click to Launch the AI Content Idea Generator
 
 - No downloads, no installations — just instant, intelligent idea generation.
